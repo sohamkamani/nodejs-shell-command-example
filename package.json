@@ -1,5 +1,5 @@
 {
-  "name": "{PROJECTDIR}",
+  "name": "nodejs-shell-command-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
